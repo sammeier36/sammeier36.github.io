@@ -1,0 +1,226 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "my name is Sam and I am a full stack developer specializing in the creation of websites, AR software and mobile apps, database management, and email design/development. I have over six years of experience working for various marketing agencies and development houses and have built a skillset that allows me to tackle a wide array of development needs. I love problem solving and delivering high quality content for my clients and employers. In my spare time I enjoy running, gaming, and taking my dog Belle to the park. Please take a look at some of my work below.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "AMERICAN HOUSE",
+        "startDate": "2017",
+        "description": "This site was built for American House using Drupal as a CMS and a mySQL backend while at Media Genesis",
+        "images": [
+          "images/portfolio/american_house.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-drupal-plain",
+            "name": "Drupal"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "Ford Bronco AR App",
+        "startDate": "2022",
+        "description": "This AR app was built for Ford to accompany the Ford Bronco. The app allows users to place a model of the Ford Bronco with different configuration options through their devices camera feed. There are also hotspots mapped around the model that the user may tap on to view more information about that section of the vehicle. This app was built using Unity and AR foundation.",
+        "images": [
+          "images/portfolio/ar.gif"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-unity-original",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "CHADTOUGH CUSTOM EMAIL CAMPAIGN",
+        "startDate": "2021",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/chtuf.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-salesforce-plain",
+            "name": "Salesforce"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "DMF BAIT",
+        "startDate": "2017",
+        "description": "This website was built for DMF Bait using wordpress.",
+        "images": [
+          "images/portfolio/dmfbait.png"
+        ],
+        "url": "https://dmfbait.com/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Wordpress"
+          }
+        ]
+      },
+      {
+        "title": "Oregon Insurance Agency",
+        "startDate": "2020",
+        "description": "This website was built as a freelance project for Oregon Insurance Agency using the bootstrap framework.",
+        "images": [
+          "images/portfolio/OIA.png",
+          "images/portfolio/OIA2.png"
+        ],
+        "url": "https://oregoninsurance.agency",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Redico",
+        "startDate": "2017",
+        "description": "This website was built with Drupal for the Redico Real Estate Development and Investment Company.",
+        "images": [
+          "images/portfolio/Redico.png"
+        ],
+        "url": "https://redico.com/",
+        "technologies": [
+          {
+            "class": "devicon-drupal-plain",
+            "name": "Drupal"
+          }
+        ]
+      },
+      {
+        "title": "Dealer Content Group",
+        "startDate": "2023",
+        "description": "This website was built for Latcha & Associates as a site to offer customized marketing products to Ford dealerships. This site was built with Django, MySql, bootstrap, and the stripe payment system. Interactive brochure products that are offered on the site were built using React.",
+        "images": [
+          "images/portfolio/dcg.png",
+          "images/portfolio/dcg2.png",
+          "images/portfolio/dcg3.png"
+        ],
+        "url": "https://dealercontentgroup.com/",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Latcha & Associates",
+        "title": "Front-End Developer",
+        "years": "11.2018 - present",
+        "mainTech": [
+          "Django Python"
+        ],
+        "technologies": [
+          "REST API",
+          "Django",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "Unity",
+          "C#",
+          "Salesforce",
+          "AEM",
+          "AWS",
+          "MySql",
+          "Angular Material",
+          "React"
+        ]
+      },
+      {
+        "company": "Media Genesis",
+        "title": "Front End Developer",
+        "years": "01.2016 - 11.2018",
+        "mainTech": [
+          "Wordpress/Drupal"
+        ],
+        "technologies": [
+          "Wordpress",
+          "Drupal",
+          "HTML5",
+          "JavaScript",
+          "Bootstrap",
+          "Sass",
+          "css3",
+          "MySql"
+        ]
+      },
+      {
+        "company": "Thrive Internet Marketing",
+        "title": "Designer / Front End Developer",
+        "years": "01.2015 - 01.2016",
+        "mainTech": [
+          "Accrisoft Freedom/Wordpress "
+        ],
+        "technologies": [
+          "Wordpress",
+          "Accrisoft Freedom",
+          "HTML5",
+          "JavaScript",
+          "Bootstrap",
+          "Sass",
+          "css3",
+          "MySql"
+        ]
+      },
+      {
+        "company": "Bowling GReen Center for Faculty Excellence",
+        "title": "Designer / Front End Developer",
+        "years": "01.2011 - 01.2015",
+        "mainTech": [
+          "Canvas"
+        ],
+        "technologies": [
+          "Canvas",
+          "HTML5",
+          "JavaScript",
+          "Bootstrap",
+          "css3"
+        ]
+      }
+    ]
+  }
