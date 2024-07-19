@@ -51,7 +51,7 @@
       {
         "title": "CHADTOUGH CUSTOM EMAIL CAMPAIGN",
         "startDate": "2021",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "ChadTough is a foundation we worked on within Latcha. THis is a sample of an email that I built for the marketing campaign during a fundraising drive for the organization.",
         "images": [
           "images/portfolio/chtuf.png"
         ],
