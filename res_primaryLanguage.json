@@ -12,7 +12,6 @@
     "projects": [
       {
         "title": "AMERICAN HOUSE",
-        "startDate": "2017",
         "description": "This site was built for American House using Drupal as a CMS and a mySQL backend while at Media Genesis",
         "images": [
           "images/portfolio/american_house.png"
@@ -31,27 +30,21 @@
       },
       {
         "title": "Ford Bronco AR App",
-        "startDate": "2022",
-        "description": "This AR app was built for Ford to accompany the Ford Bronco. The app allows users to place a model of the Ford Bronco with different configuration options through their devices camera feed. There are also hotspots mapped around the model that the user may tap on to view more information about that section of the vehicle. This app was built using Unity and AR foundation.",
+        "description": "This AR app was built for Ford to accompany the Ford Bronco. The app allows users to place a model of the Ford Bronco with different configuration options through their devices camera feed. There are also hotspots mapped around the model that the user may tap on to view more information about that section of the vehicle. This app was built using Angular with ThreeJS and WebXR",
         "images": [
           "images/portfolio/ar.gif"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-unity-original",
+            "class": "devicon-angular-original",
             "name": "Unity"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       },
       {
         "title": "CHADTOUGH CUSTOM EMAIL CAMPAIGN",
-        "startDate": "2021",
-        "description": "ChadTough is a foundation we worked on within Latcha. This is a sample of an email that I built for the marketing campaign during a fundraising drive for the organization.",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/chtuf.png"
         ],
@@ -73,7 +66,6 @@
       },
       {
         "title": "DMF BAIT",
-        "startDate": "2017",
         "description": "This website was built for DMF Bait using wordpress.",
         "images": [
           "images/portfolio/dmfbait.png"
@@ -88,7 +80,6 @@
       },
       {
         "title": "Oregon Insurance Agency",
-        "startDate": "2020",
         "description": "This website was built as a freelance project for Oregon Insurance Agency using the bootstrap framework.",
         "images": [
           "images/portfolio/OIA.png",
@@ -104,7 +95,6 @@
       },
       {
         "title": "Redico",
-        "startDate": "2017",
         "description": "This website was built with Drupal for the Redico Real Estate Development and Investment Company.",
         "images": [
           "images/portfolio/Redico.png"
@@ -119,7 +109,6 @@
       },
       {
         "title": "Dealer Content Group",
-        "startDate": "2023",
         "description": "This website was built for Latcha & Associates as a site to offer customized marketing products to Ford dealerships. This site was built with Django, MySql, bootstrap, and the stripe payment system. Interactive brochure products that are offered on the site were built using React.",
         "images": [
           "images/portfolio/dcg.png",
@@ -153,7 +142,7 @@
         "title": "Front-End Developer",
         "years": "11.2018 - present",
         "mainTech": [
-          "Django Python"
+          "Django, Python, Angular, React"
         ],
         "technologies": [
           "REST API",
@@ -208,7 +197,7 @@
         ]
       },
       {
-        "company": "Bowling GReen Center for Faculty Excellence",
+        "company": "Bowling Green Center for Faculty Excellence",
         "title": "Designer / Front End Developer",
         "years": "01.2011 - 01.2015",
         "mainTech": [
